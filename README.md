@@ -1,6 +1,6 @@
 # Workshop Automatizando Visual Regression Testing
 
-## Apresentadora
+## Ministradora
 - [Samanta Cicilia](https://www.linkedin.com/in/samantacici/)
 
 Saiba como foi no nosso post do Medium **Como foi o Workshop Automatizando Visual Regression Testing**. Todos os links abaixo também estão no artigo, contextualizados.
