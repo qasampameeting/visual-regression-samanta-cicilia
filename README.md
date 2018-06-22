@@ -1,6 +1,9 @@
 # Workshop Automatizando Visual Regression Testing
 
-Workshop dado pela [Samanta Cicilia](https://www.linkedin.com/in/samantacici/). Saiba como foi no nosso post do Medium **Como foi o Workshop Automatizando Visual Regression Testing**. Todos os links abaixo também estão no artigo, contextualizados.
+## Apresentadora
+- [Samanta Cicilia](https://www.linkedin.com/in/samantacici/)
+
+Saiba como foi no nosso post do Medium **Como foi o Workshop Automatizando Visual Regression Testing**. Todos os links abaixo também estão no artigo, contextualizados.
 
 - As instruções para instalação das ferramentas necessárias estão **aqui**
 - Se alguém tiver problemas com o node, use o [NVM](https://github.com/creationix/nvm).
